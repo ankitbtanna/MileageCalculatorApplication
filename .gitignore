@@ -6,6 +6,8 @@
 *.log
 node_modules
 */node_modules
+mca-ui/node_modules
+mca-server/node_modules
 
 # Include when developing application packages.
 pubspec.lock
